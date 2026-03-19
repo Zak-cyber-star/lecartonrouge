@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Page principale -->
+  <url>
+    <loc>https://lecartonrouge.fr/</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Articles -->
+  <url>
+    <loc>https://lecartonrouge.fr/#mbappe-flop</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Le Carton Rouge</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-14</news:publication_date>
+      <news:title>Mbappé à Madrid : le plus grand flop de l'histoire ?</news:title>
+      <news:keywords>Mbappé, Real Madrid, flop, Liga, football</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://lecartonrouge.fr/#ligue1-nul</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Le Carton Rouge</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-12</news:publication_date>
+      <news:title>La Ligue 1 est-elle devenue le championnat le plus nul d'Europe ?</news:title>
+      <news:keywords>Ligue 1, championnat, France, football, affluence</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://lecartonrouge.fr/#var-football</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Le Carton Rouge</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10</news:publication_date>
+      <news:title>La VAR a tué le football. Définitivement.</news:title>
+      <news:keywords>VAR, arbitrage, football, règles, émotion</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://lecartonrouge.fr/#salaires-football</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Le Carton Rouge</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-08</news:publication_date>
+      <news:title>Les salaires de footballeurs : une indécence devenue normale</news:title>
+      <news:keywords>salaires, footballeurs, argent, mercato, Premier League</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://lecartonrouge.fr/#deschamps-depart</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Le Carton Rouge</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-06</news:publication_date>
+      <news:title>Deschamps doit partir. Maintenant.</news:title>
+      <news:keywords>Deschamps, équipe de France, Bleus, sélectionneur, football</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://lecartonrouge.fr/#messi-ronaldo</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Le Carton Rouge</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-04</news:publication_date>
+      <news:title>Messi ou Ronaldo ? Le débat du siècle a une réponse.</news:title>
+      <news:keywords>Messi, Ronaldo, GOAT, Ballon d'Or, débat football</news:keywords>
+    </news:news>
+  </url>
+
+</urlset>
